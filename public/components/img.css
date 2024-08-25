@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+.chats
+{
+    background-image: url('../Images/iStock-481398935.jpg'); 
+     height: 400px; 
+     width: 400px;  
+     background-size: cover; 
+     background-position: center;
+     background-repeat: no-repeat; 
+     
+     
+
+} 
+.toxt {
+    font-family: "Lovers Quarrel", cursive;
+    
+    font-style: normal; 
+    background: linear-gradient(to left, color pink,white);
+  }
+  

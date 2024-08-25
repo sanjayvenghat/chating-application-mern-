@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+.alls 
+{
+    height: 100vh;
+    width: 100%; 
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+} 
+.alls>* 
+{
+    height: 100%;
+} 
+.sidebar 
+{
+    height: 100vh;
+    width: 100%;
+} 
+.main 
+{
+    width: 80%; 
+    height: 100vh;
+} 
